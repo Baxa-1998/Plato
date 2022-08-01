@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 436 172">
+		<g clip-path="url(#eye-clip-eye-6249cc4e947af)">
+			<path fill="#e1dddc" d="M1 1H436V171H1z"></path>
+			<path class="eye-iris" fill="#3a173c" d="M294,86.1c0,42.4-34.4,76.8-76.8,76.8c-42.4,0-76.8-34.4-76.8-76.8c0-42.4,34.4-76.8,76.8-76.8 C259.6,9.2,294,43.6,294,86.1" style=""></path>
+		</g>
+		<g class="eye-hover-group" clip-path="url(#eye-hover-clip-eye-6249cc4e947af)">
+			<path fill="transparent" d="M1 1H436V171H1z"></path>
+		</g>
+		<clipPath id="eye-clip-eye-6249cc4e947af" class="eye-clip">
+			<path fill="#e1dddc" d="M0.7,87.7c0,0,96.2-87.1,213.2-87.1c117,0,221.5,87.1,221.5,87.1s-104.5,83.8-221.5,83.8 C96.9,171.4,0.7,87.7,0.7,87.7" data-svg-origin="218.04999083280563 86.04999542236328" transform="matrix(1,0,0,0.88777,0,9.656960736273177)" style="transform-origin: 0px 0px 0px;"></path>
+		</clipPath>
+		<clipPath id="eye-hover-clip-eye-6249cc4e947af" class="eye-hover-clip" data-svg-origin="218.04999083280563 86.04999542236328" transform="matrix(1,0,0,0.7,0,25.81499862670899)" style="transform-origin: 0px 0px 0px;">
+			<path fill="#e1dddc" d="M0.7,87.7c0,0,96.2-87.1,213.2-87.1c117,0,221.5,87.1,221.5,87.1s-104.5,83.8-221.5,83.8 C96.9,171.4,0.7,87.7,0.7,87.7"></path>
+		</clipPath>
+	</svg>
